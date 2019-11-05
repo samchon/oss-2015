@@ -1,0 +1,13 @@
+0. 14인치 노트북 방화벽 설정
+	1) 윈도우 설치
+	2) 37000 ~ 37999까지 허용
+
+1. OraQ
+	1) C:\inetpub\wwwroot\server.xml에 17인치 노트북 아이피 입력
+	2) 14인치 노트툭 및 태블릿으로 접속
+	3) Event 확인
+
+2. Distributed Processing System Module
+	1) 각 디바이스 아이피 입력
+	2) 각각의 역할에 맞는 프로그램 실행 후 아이피 입력
+	3) 진행
